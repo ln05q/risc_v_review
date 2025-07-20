@@ -1,0 +1,8 @@
+# IGNORE THINGS
+
+# Ignore .vcd files
+*.vcd
+
+
+# Ignore .vvp files
+*.vvp
